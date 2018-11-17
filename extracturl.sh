@@ -15,6 +15,10 @@
 # ou un fichier de votre choix et de les ecrirent dans le fichier "readdable.txt"
 
 
+#not work 
+#grep -o '<H3>.*</H3>' bookmarks.html >> readdable2.txt
+#sed -n  '/<div class=\"contents\">/,/<\/div>/p' fichier.html  bookmarks.html >> readdable2.txt 
 
 # we grep all url
-grep -Eo 'https?://[^"]+' sources.html  >> readdable.txt
+
+#& grep -Eo 'https?://[^"]+' bookmarks.html  >> readdable2.txt

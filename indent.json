@@ -1,0 +1,1652 @@
+{
+  "guid": "root________",
+  "title": "",
+  "index": 0,
+  "dateAdded": 1511613803185000,
+  "lastModified": 1542454790206000,
+  "id": 1,
+  "typeCode": 2,
+  "type": "text/x-moz-place-container",
+  "root": "placesRoot",
+  "children": [
+    {
+      "guid": "menu________",
+      "title": "Menu des marque-pages",
+      "index": 0,
+      "dateAdded": 1515161890929000,
+      "lastModified": 1542390233327000,
+      "id": 2,
+      "typeCode": 2,
+      "type": "text/x-moz-place-container",
+      "root": "bookmarksMenuFolder",
+      "children": [
+        {
+          "guid": "GXLZeo-EZ4dV",
+          "title": "Recently Bookmarked",
+          "index": 0,
+          "dateAdded": 1367943397732000,
+          "lastModified": 1511613803263000,
+          "id": 7,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "place:parent=menu________&parent=unfiled_____&parent=toolbar_____&queryType=1&sort=12&maxResults=10&excludeQueries=1"
+        },
+        {
+          "guid": "aBFLg7udJeEs",
+          "title": "Étiquettes récentes",
+          "index": 1,
+          "dateAdded": 1511561728939000,
+          "lastModified": 1515162093367000,
+          "id": 8,
+          "typeCode": 1,
+          "annos": [
+            {
+              "name": "Places/SmartBookmark",
+              "value": "RecentTags",
+              "expires": 4,
+              "flags": 0
+            }
+          ],
+          "type": "text/x-moz-place",
+          "uri": "place:type=6&sort=14&maxResults=10"
+        },
+        {
+          "guid": "4PlnAhyXlsQ2",
+          "title": "",
+          "index": 2,
+          "dateAdded": 1304104956810000,
+          "lastModified": 1304104956810000,
+          "id": 9,
+          "typeCode": 3,
+          "type": "text/x-moz-place-separator"
+        },
+        {
+          "guid": "dTn2GLkxvmRF",
+          "title": "Mozilla Firefox",
+          "index": 3,
+          "dateAdded": 1511613167076000,
+          "lastModified": 1511613168418000,
+          "id": 10,
+          "typeCode": 2,
+          "type": "text/x-moz-place-container",
+          "children": [
+            {
+              "guid": "L29C8x31e-xm",
+              "title": "Help and Tutorials",
+              "index": 0,
+              "dateAdded": 1511613168093000,
+              "lastModified": 1515162091606000,
+              "id": 11,
+              "typeCode": 1,
+              "type": "text/x-moz-place",
+              "uri": "https://www.mozilla.org/en-US/firefox/help/"
+            },
+            {
+              "guid": "zxh7lOInc7G3",
+              "title": "Customize Firefox",
+              "index": 1,
+              "dateAdded": 1511613168191000,
+              "lastModified": 1515162092193000,
+              "id": 12,
+              "typeCode": 1,
+              "type": "text/x-moz-place",
+              "uri": "https://www.mozilla.org/en-US/firefox/customize/"
+            },
+            {
+              "guid": "ISkboczJd8ev",
+              "title": "Get Involved",
+              "index": 2,
+              "dateAdded": 1511613168065000,
+              "lastModified": 1515162091458000,
+              "id": 13,
+              "typeCode": 1,
+              "type": "text/x-moz-place",
+              "uri": "https://www.mozilla.org/en-US/contribute/"
+            },
+            {
+              "guid": "1dR9V56rxkm8",
+              "title": "About Us",
+              "index": 3,
+              "dateAdded": 1511613167976000,
+              "lastModified": 1515162090999000,
+              "id": 14,
+              "typeCode": 1,
+              "type": "text/x-moz-place",
+              "uri": "https://www.mozilla.org/en-US/about/"
+            }
+          ]
+        },
+        {
+          "guid": "7eWRI2c1X9fW",
+          "title": "Nouvel onglet",
+          "index": 4,
+          "dateAdded": 1511613168000000,
+          "lastModified": 1515162091092000,
+          "id": 15,
+          "typeCode": 1,
+          "iconuri": "chrome://branding/content/icon32.png",
+          "type": "text/x-moz-place",
+          "uri": "about:newtab"
+        }
+      ]
+    },
+    {
+      "guid": "toolbar_____",
+      "title": "Barre personnelle",
+      "index": 1,
+      "dateAdded": 1511613803185000,
+      "lastModified": 1542454790206000,
+      "id": 3,
+      "typeCode": 2,
+      "type": "text/x-moz-place-container",
+      "root": "toolbarFolder",
+      "children": [
+        {
+          "guid": "8AO5Riz8eOnO",
+          "title": "javascript",
+          "index": 0,
+          "dateAdded": 1511613167014000,
+          "lastModified": 1515162084683000,
+          "id": 16,
+          "typeCode": 2,
+          "annos": [
+            {
+              "name": "bookmarkProperties/description",
+              "value": "site ref de javascript\n",
+              "expires": 4,
+              "flags": 0
+            }
+          ],
+          "type": "text/x-moz-place-container",
+          "children": [
+            {
+              "guid": "2b3RFvdRw44_",
+              "title": "JavaScript CSS : modifier un style CSS ou une classe CSS avec JavaScript - Studio Vitamine l'agence web e-commerce",
+              "index": 0,
+              "dateAdded": 1511613167396000,
+              "lastModified": 1515162091028000,
+              "id": 17,
+              "typeCode": 1,
+              "type": "text/x-moz-place",
+              "uri": "http://www.studiovitamine.com/blog/javascript-css-modifier-un-style-css-ou-une-classe-css-avec-javascript/"
+            },
+            {
+              "guid": "knAnUndu8Olg",
+              "title": "lire un fichier texte en javascript - si impossible : passer une variable php <-> js by megacier",
+              "index": 1,
+              "dateAdded": 1511613167961000,
+              "lastModified": 1515162092085000,
+              "id": 18,
+              "typeCode": 1,
+              "type": "text/x-moz-place",
+              "uri": "https://openclassrooms.com/forum/sujet/lire-un-fichier-texte-en-javascript-33614"
+            },
+            {
+              "guid": "kuSV5yCaPA-7",
+              "title": "Unminify JS, CSS and HTML Code",
+              "index": 2,
+              "dateAdded": 1511613167886000,
+              "lastModified": 1515162093161000,
+              "id": 19,
+              "typeCode": 1,
+              "type": "text/x-moz-place",
+              "uri": "http://unminify.com/"
+            },
+            {
+              "guid": "DwxRmBIaF2eA",
+              "title": "Carte interactive en JQuery | Mémorandom",
+              "index": 3,
+              "dateAdded": 1511613167486000,
+              "lastModified": 1515162090450000,
+              "id": 20,
+              "typeCode": 1,
+              "annos": [
+                {
+                  "name": "bookmarkProperties/description",
+                  "value": "Voici un plugin JQuery plutôt sympa que j'ai utiliser récemment pour faire une carte interactive. Ce plugin s'appelle Maphilight et permet de rentre",
+                  "expires": 4,
+                  "flags": 0
+                }
+              ],
+              "type": "text/x-moz-place",
+              "uri": "http://www.memorandom.fr/jquery/carte-interactive-en-jquery/"
+            },
+            {
+              "guid": "-dokQ5m-P06r",
+              "title": "Faire un calendrier en javascript avec un effet de transparence calendrier javascript scripts moi année jours semaine (X)html css transparence opacity opacitée calendar - Scripts tutoriels Codes-Sources fonction Faire un calendrier en javascript avec un effet de transparence codes code sources source programme web php mysql css javascript html formation - Support du Web",
+              "index": 4,
+              "dateAdded": 1511613167787000,
+              "lastModified": 1515162092493000,
+              "id": 21,
+              "typeCode": 1,
+              "annos": [
+                {
+                  "name": "bookmarkProperties/description",
+                  "value": "Faire un calendrier en javascript  avec un effet de transparence calendrier javascript scripts moi année jours semaine (X)html css transparence opacity opacitée calendar - Scripts tutoriels Codes-Sources fonction Faire un calendrier en javascript  avec un effet de transparence codes code sources source programme web php mysql css javascript html formation",
+                  "expires": 4,
+                  "flags": 0
+                }
+              ],
+              "type": "text/x-moz-place",
+              "uri": "http://www.supportduweb.com/scripts_tutoriaux-code-source-9-faire-un-calendrier-en-javascript-avec-un-effet-de-transparence.html"
+            },
+            {
+              "guid": "m74b-UlZtA1M",
+              "title": "Zoomooz.js",
+              "index": 5,
+              "dateAdded": 1511613167579000,
+              "lastModified": 1515162088469000,
+              "id": 22,
+              "typeCode": 1,
+              "type": "text/x-moz-place",
+              "uri": "http://jaukia.github.io/zoomooz/"
+            },
+            {
+              "guid": "aOuvO0dRZDR3",
+              "title": "JS1k 2010 - A merry JavaScript golfing competition",
+              "index": 6,
+              "dateAdded": 1512421698217000,
+              "lastModified": 1515162085721000,
+              "id": 23,
+              "typeCode": 1,
+              "type": "text/x-moz-place",
+              "uri": "http://js1k.com/2010-xmas/"
+            },
+            {
+              "guid": "VIsUunbOswOT",
+              "title": "you see",
+              "index": 7,
+              "dateAdded": 1512547771153000,
+              "lastModified": 1515162085958000,
+              "id": 24,
+              "typeCode": 1,
+              "annos": [
+                {
+                  "name": "bookmarkProperties/description",
+                  "value": "How would you know the difference between the dream world and the real world?...",
+                  "expires": 4,
+                  "flags": 0
+                }
+              ],
+              "type": "text/x-moz-place",
+              "uri": "https://codepen.io/ge1doot/pen/jPEymq"
+            }
+          ]
+        },
+        {
+          "guid": "wnuROfR_Po6O",
+          "title": "php",
+          "index": 1,
+          "dateAdded": 1510104236584000,
+          "lastModified": 1514891521433000,
+          "id": 25,
+          "typeCode": 2,
+          "type": "text/x-moz-place-container",
+          "children": [
+            {
+              "guid": "JxmzGCTpk9ty",
+              "title": "Upload de fichiers en PHP",
+              "index": 0,
+              "dateAdded": 1511613167939000,
+              "lastModified": 1515162091496000,
+              "id": 26,
+              "typeCode": 1,
+              "type": "text/x-moz-place",
+              "uri": "http://antoine-herault.developpez.com/tutoriels/php/upload/"
+            },
+            {
+              "guid": "R--roKGuKsvk",
+              "title": "La base : l'espace membre - Votre site PHP (presque) complet : architecture MVC et bonnes pratiques",
+              "index": 1,
+              "dateAdded": 1511613167755000,
+              "lastModified": 1515162086434000,
+              "id": 27,
+              "typeCode": 1,
+              "type": "text/x-moz-place",
+              "uri": "https://openclassrooms.com/courses/votre-site-php-presque-complet-architecture-mvc-et-bonnes-pratiques/la-base-l-espace-membre"
+            },
+            {
+              "guid": "AdTUZA2ktVGx",
+              "title": "Exécuter un script shell avec permission root en PHP",
+              "index": 2,
+              "dateAdded": 1511613167873000,
+              "lastModified": 1515162093292000,
+              "id": 28,
+              "typeCode": 1,
+              "type": "text/x-moz-place",
+              "uri": "http://blogmotion.fr/systeme/executer-un-script-shell-avec-permission-root-en-php-1312"
+            },
+            {
+              "guid": "f93wBBoJu8N1",
+              "title": "(The only proper) PDO tutorial",
+              "index": 3,
+              "dateAdded": 1511613168157000,
+              "lastModified": 1515162092949000,
+              "id": 29,
+              "typeCode": 1,
+              "type": "text/x-moz-place",
+              "uri": "https://phpdelusions.net/pdo"
+            },
+            {
+              "guid": "lWTpr7Q4YW6P",
+              "title": "Send, pass, get variables with PHP, Form, HTML & JavaScript code",
+              "index": 4,
+              "dateAdded": 1514308992012000,
+              "lastModified": 1515162085638000,
+              "id": 30,
+              "typeCode": 1,
+              "annos": [
+                {
+                  "name": "bookmarkProperties/description",
+                  "value": "Super useful bits of PHP, Form and JavaScript code.",
+                  "expires": 4,
+                  "flags": 0
+                }
+              ],
+              "type": "text/x-moz-place",
+              "uri": "http://www.skytopia.com/project/articles/compsci/form.html"
+            },
+            {
+              "guid": "qgl9hr2bBTm0",
+              "title": "Créer et utiliser une table SQLite en PHP",
+              "index": 5,
+              "dateAdded": 1514891521433000,
+              "lastModified": 1515162088024000,
+              "id": 31,
+              "typeCode": 1,
+              "annos": [
+                {
+                  "name": "bookmarkProperties/description",
+                  "value": "Définir des champs de données, puis la requête de création et de modification ou ajouts.",
+                  "expires": 4,
+                  "flags": 0
+                }
+              ],
+              "type": "text/x-moz-place",
+              "uri": "https://www.scriptol.fr/sql/tutoriel-sqlite-table.php"
+            }
+          ]
+        },
+        {
+          "guid": "NBhe_oWUtG4N",
+          "title": "bitco",
+          "index": 2,
+          "dateAdded": 1512084167302000,
+          "lastModified": 1512856630318000,
+          "id": 32,
+          "typeCode": 2,
+          "type": "text/x-moz-place-container",
+          "children": [
+            {
+              "guid": "DThsb3915DF7",
+              "title": "56m:5s - FreeBitco.in - Win free bitcoins every hour!",
+              "index": 0,
+              "dateAdded": 1511613167252000,
+              "lastModified": 1515162085596000,
+              "id": 33,
+              "typeCode": 1,
+              "iconuri": "https://static1.freebitco.in/favicon.png",
+              "type": "text/x-moz-place",
+              "uri": "https://freebitco.in/?op=home"
+            },
+            {
+              "guid": "6kim0W26QJcI",
+              "title": "55m:21s - FreeBitco.in - Win free bitcoins every hour!",
+              "index": 1,
+              "dateAdded": 1511613167236000,
+              "lastModified": 1515162085500000,
+              "id": 34,
+              "typeCode": 1,
+              "iconuri": "https://static1.freebitco.in/favicon.png",
+              "type": "text/x-moz-place",
+              "uri": "https://freebitco.in/?op=home"
+            },
+            {
+              "guid": "dVWl_cPGcg3b",
+              "title": "Nouveau dossier",
+              "index": 2,
+              "dateAdded": 1512084167380000,
+              "lastModified": 1512547771139000,
+              "id": 35,
+              "typeCode": 2,
+              "type": "text/x-moz-place-container"
+            },
+            {
+              "guid": "jRRBLRhHVhqd",
+              "title": "Best Bitcoin Faucet List Ever Best Bitcoin Faucet List Ever",
+              "index": 3,
+              "dateAdded": 1512084167467000,
+              "lastModified": 1515162089762000,
+              "id": 36,
+              "typeCode": 1,
+              "annos": [
+                {
+                  "name": "bookmarkProperties/description",
+                  "value": "197 freshly checked live Bitcoin faucets as of 01 Dec 2017. 1 x 100+ satoshi, 6 x 50+ satoshi, 171 FaucetHub faucets. 31 FaucetSystem faucets. 0 FaucetPay faucets. ",
+                  "expires": 4,
+                  "flags": 0
+                }
+              ],
+              "type": "text/x-moz-place",
+              "uri": "http://bit.makejar.com/"
+            },
+            {
+              "guid": "QHoes8zws0C4",
+              "title": "Moon Bitcoin - Free Bitcoin Faucet",
+              "index": 4,
+              "dateAdded": 1512084167450000,
+              "lastModified": 1515162089505000,
+              "id": 37,
+              "typeCode": 1,
+              "annos": [
+                {
+                  "name": "bookmarkProperties/description",
+                  "value": "Moon Bitcoin is a bitcoin faucet with a difference...YOU decide how often to claim! Free bitcoins. 50% referral commission. Up to 300% bonuses.",
+                  "expires": 4,
+                  "flags": 0
+                }
+              ],
+              "type": "text/x-moz-place",
+              "uri": "http://moonbit.co.in/?ref=1d03f4c9df5d"
+            }
+          ]
+        },
+        {
+          "guid": "R1tjAwfK9HL-",
+          "title": "réseau",
+          "index": 3,
+          "dateAdded": 1510104287489000,
+          "lastModified": 1515161915389000,
+          "id": 38,
+          "typeCode": 2,
+          "type": "text/x-moz-place-container",
+          "children": [
+            {
+              "guid": "9ahv2Yu3Bjil",
+              "title": "1:1 NAT in ZeroShell - 1_1_NAT_in_ZeroShell.pdf",
+              "index": 0,
+              "dateAdded": 1511613167859000,
+              "lastModified": 1515162091287000,
+              "id": 39,
+              "typeCode": 1,
+              "type": "text/x-moz-place",
+              "uri": "http://www.zeroshell.net/listing/1_1_NAT_in_ZeroShell.pdf"
+            },
+            {
+              "guid": "_V0P0q8sZXmg",
+              "title": "ngrok - secure introspectable tunnels to localhost",
+              "index": 1,
+              "dateAdded": 1511613167772000,
+              "lastModified": 1515162092440000,
+              "id": 40,
+              "typeCode": 1,
+              "annos": [
+                {
+                  "name": "bookmarkProperties/description",
+                  "value": "ngrok secure introspectable tunnels to localhost webhook development tool and debugging tool",
+                  "expires": 4,
+                  "flags": 0
+                }
+              ],
+              "type": "text/x-moz-place",
+              "uri": "https://ngrok.com/"
+            },
+            {
+              "guid": "U5F5LnPvdJ1R",
+              "title": "Protéger un répertoire par .htaccess et .htpasswd - Ouvaton, coopérative de services internet",
+              "index": 2,
+              "dateAdded": 1511613167525000,
+              "lastModified": 1515162087643000,
+              "id": 41,
+              "typeCode": 1,
+              "annos": [
+                {
+                  "name": "bookmarkProperties/description",
+                  "value": "Savoir comment protéger un fichier, un répertoire ou un site entier avec un mot de passe obligatoire.",
+                  "expires": 4,
+                  "flags": 0
+                }
+              ],
+              "type": "text/x-moz-place",
+              "uri": "https://ouvaton.coop/proteger-par-htpasswd"
+            },
+            {
+              "guid": "GpKhZxwk-jFE",
+              "title": "Authentification et autorisation - Serveur Apache HTTP Version 2.2",
+              "index": 3,
+              "dateAdded": 1511613167506000,
+              "lastModified": 1515162088896000,
+              "id": 42,
+              "typeCode": 1,
+              "type": "text/x-moz-place",
+              "uri": "https://httpd.apache.org/docs/2.2/fr/howto/auth.html"
+            },
+            {
+              "guid": "cvyzs4BLoQEm",
+              "title": "Download/template/precreated — OpenVZ Virtuozzo Containers Wiki",
+              "index": 4,
+              "dateAdded": 1511613167563000,
+              "lastModified": 1515162089840000,
+              "id": 43,
+              "typeCode": 1,
+              "annos": [
+                {
+                  "name": "bookmarkProperties/description",
+                  "value": "Precreated template caches for different distributions. To install, download and put to the host system's /vz/template/cache directory, do not unpack!",
+                  "expires": 4,
+                  "flags": 0
+                }
+              ],
+              "type": "text/x-moz-place",
+              "uri": "https://openvz.org/Download/template/precreated"
+            },
+            {
+              "guid": "65ox4AqRXJnv",
+              "title": "TurnKey LXC Live CD Download - Softpedia Linux",
+              "index": 5,
+              "dateAdded": 1511613167325000,
+              "lastModified": 1515162088257000,
+              "id": 44,
+              "typeCode": 1,
+              "annos": [
+                {
+                  "name": "bookmarkProperties/description",
+                  "value": "Free Download TurnKey LXC Live CD 14.0 - An installable LXC Live CD that is easy to use, lightweight and based on Debian GNU/Linux",
+                  "expires": 4,
+                  "flags": 0
+                }
+              ],
+              "type": "text/x-moz-place",
+              "uri": "http://linux.softpedia.com/get/System/Operating-Systems/Linux-Distributions/TurnKey-LXC-Live-CD-103095.shtml"
+            },
+            {
+              "guid": "01QANpiSGu9v",
+              "title": "The Perfect Server - Debian 8.4 Jessie (Apache2, BIND, Dovecot, ISPConfig 3.1) - Page 2 - Page 2",
+              "index": 6,
+              "dateAdded": 1511621363724000,
+              "lastModified": 1515162090311000,
+              "id": 45,
+              "typeCode": 1,
+              "charset": "UTF-8",
+              "iconuri": "https://www.howtoforge.com/favicon.ico",
+              "annos": [
+                {
+                  "name": "bookmarkProperties/description",
+                  "value": "This tutorial shows how to prepare a Debian Jessie server (with Apache2, BIND, Dovecot) for the installation of ISPConfig 3.1. The web hosting control...  - Page 2",
+                  "expires": 4,
+                  "flags": 0
+                }
+              ],
+              "type": "text/x-moz-place",
+              "uri": "https://www.howtoforge.com/tutorial/perfect-server-debian-8-4-jessie-apache-bind-dovecot-ispconfig-3-1/2/"
+            },
+            {
+              "guid": "dX0PoJ1GcN6Y",
+              "title": "samba - Documentation Ubuntu Francophone",
+              "index": 7,
+              "dateAdded": 1511732236097000,
+              "lastModified": 1515162090122000,
+              "id": 46,
+              "typeCode": 1,
+              "charset": "UTF-8",
+              "iconuri": "https://www-static.ubuntu-fr.org/theme2010/images/commun/ubuntu/icone.png",
+              "annos": [
+                {
+                  "name": "bookmarkProperties/description",
+                  "value": "Documentation francophone pour la distribution Ubuntu",
+                  "expires": 4,
+                  "flags": 0
+                }
+              ],
+              "type": "text/x-moz-place",
+              "uri": "https://doc.ubuntu-fr.org/samba#partager_des_ressources_dans_un_reseau_local"
+            },
+            {
+              "guid": "SC4zHy1BcZZG",
+              "title": "Storage - Proxmox VE",
+              "index": 8,
+              "dateAdded": 1511735450442000,
+              "lastModified": 1515162086042000,
+              "id": 47,
+              "typeCode": 1,
+              "charset": "UTF-8",
+              "iconuri": "https://pve.proxmox.com/favicon.ico",
+              "annos": [
+                {
+                  "name": "bookmarkProperties/description",
+                  "value": "",
+                  "expires": 4,
+                  "flags": 0
+                }
+              ],
+              "type": "text/x-moz-place",
+              "uri": "https://pve.proxmox.com/wiki/Storage"
+            },
+            {
+              "guid": "mdHP3EIwcpM5",
+              "title": "[SOLVED] - No Access to the Panel after the Update PROMOX to VE 5 ! | Proxmox Support Forum",
+              "index": 9,
+              "dateAdded": 1512231853837000,
+              "lastModified": 1515162089468000,
+              "id": 48,
+              "typeCode": 1,
+              "annos": [
+                {
+                  "name": "bookmarkProperties/description",
+                  "value": "Hello,\n\nThis morning I upgraded (the 3 servers that are clustered HA) proxmox to version 5 but after reboot I can not access my servers via the panel...",
+                  "expires": 4,
+                  "flags": 0
+                }
+              ],
+              "type": "text/x-moz-place",
+              "uri": "https://forum.proxmox.com/threads/no-access-to-the-panel-after-the-update-promox-to-ve-5.35517/"
+            },
+            {
+              "guid": "UJpz01BxbE3h",
+              "title": "Package Repositories - Proxmox VE",
+              "index": 10,
+              "dateAdded": 1512231853820000,
+              "lastModified": 1515162087855000,
+              "id": 49,
+              "typeCode": 1,
+              "type": "text/x-moz-place",
+              "uri": "https://pve.proxmox.com/wiki/Package_Repositories"
+            },
+            {
+              "guid": "GOJwvDI-srLH",
+              "title": "X-Files",
+              "index": 11,
+              "dateAdded": 1514051100409000,
+              "lastModified": 1515162088430000,
+              "id": 50,
+              "typeCode": 1,
+              "type": "text/x-moz-place",
+              "uri": "https://doc.lagout.org/network/"
+            },
+            {
+              "guid": "7pXQaelhzU5i",
+              "title": "création d’une machine virtuelle avec Proxmox 3 | memo-linux.com",
+              "index": 12,
+              "dateAdded": 1515091055795000,
+              "lastModified": 1515162088729000,
+              "id": 51,
+              "typeCode": 1,
+              "charset": "UTF-8",
+              "iconuri": "https://cdn-01.memo-linux.com/favicon.jpg",
+              "annos": [
+                {
+                  "name": "bookmarkProperties/description",
+                  "value": "Détails des étapes pour la création d'une machine virtuelle avec ",
+                  "expires": 4,
+                  "flags": 0
+                }
+              ],
+              "type": "text/x-moz-place",
+              "uri": "https://memo-linux.com/creation-dune-machine-virtuelle-avec-proxmox-3/"
+            }
+          ]
+        },
+        {
+          "guid": "QBceFl48VuE7",
+          "title": "perso",
+          "index": 4,
+          "dateAdded": 1510104212627000,
+          "lastModified": 1515161915445000,
+          "id": 52,
+          "typeCode": 2,
+          "type": "text/x-moz-place-container",
+          "children": [
+            {
+              "guid": "Vz5gVkfOnaCv",
+              "title": "Mes contrats | Intranet Talorig",
+              "index": 0,
+              "dateAdded": 1511613167696000,
+              "lastModified": 1515162086404000,
+              "id": 53,
+              "typeCode": 1,
+              "type": "text/x-moz-place",
+              "uri": "http://monespace.talorig.fr/tableau-de-bord/mes-contrats"
+            },
+            {
+              "guid": "jWyBV7fekYye",
+              "title": "Cours d'Algorithmique - Christophe Darmangeat",
+              "index": 1,
+              "dateAdded": 1511613167802000,
+              "lastModified": 1515162092790000,
+              "id": 54,
+              "typeCode": 1,
+              "type": "text/x-moz-place",
+              "uri": "http://pise.info/algo/codage.htm"
+            },
+            {
+              "guid": "7z-k7EJTCTaX",
+              "title": "Avant-propos, comment fonctionne ce tutoriel - Votre site PHP (presque) complet : architecture MVC et bonnes pratiques - OpenClassrooms",
+              "index": 2,
+              "dateAdded": 1511613167470000,
+              "lastModified": 1515162090386000,
+              "id": 55,
+              "typeCode": 1,
+              "type": "text/x-moz-place",
+              "uri": "https://openclassrooms.com/courses/votre-site-php-presque-complet-architecture-mvc-et-bonnes-pratiques/avant-propos-comment-fonctionne-ce-tutoriel"
+            },
+            {
+              "guid": "3wpyavz5WY8E",
+              "title": "Mindae, l'Architecture Nouvelle de vos bureaux",
+              "index": 3,
+              "dateAdded": 1511613167110000,
+              "lastModified": 1515162086337000,
+              "id": 56,
+              "typeCode": 1,
+              "annos": [
+                {
+                  "name": "bookmarkProperties/description",
+                  "value": "Une approche et des méthodes personnalisées pour l'aménagement d'espaces de travail nouveaux pour votre entreprise.",
+                  "expires": 4,
+                  "flags": 0
+                }
+              ],
+              "type": "text/x-moz-place",
+              "uri": "http://mindae-pourvosbureaux.strikingly.com/"
+            },
+            {
+              "guid": "Yc5XnJa2Ee00",
+              "title": "Icons - Style - Material Design",
+              "index": 4,
+              "dateAdded": 1511613167550000,
+              "lastModified": 1515162087237000,
+              "id": 57,
+              "typeCode": 1,
+              "type": "text/x-moz-place",
+              "uri": "https://material.io/guidelines/style/icons.html#icons-product-icons"
+            },
+            {
+              "guid": "7a7y1D8DCAQ3",
+              "title": "Navigateur Vivaldi | Un navigateur Web rapide & flexible",
+              "index": 5,
+              "dateAdded": 1511613167453000,
+              "lastModified": 1515162089797000,
+              "id": 58,
+              "typeCode": 1,
+              "annos": [
+                {
+                  "name": "bookmarkProperties/description",
+                  "value": "Vivaldi est un navigateur Web rapide et gratuit idéal pour les utilisateurs avancés. Vous décidez comment naviguer. Télécharger dès maintenant le navigateur entièrement configurable de Vivaldi et naviguez comme vous le souhaitez.",
+                  "expires": 4,
+                  "flags": 0
+                }
+              ],
+              "type": "text/x-moz-place",
+              "uri": "https://vivaldi.com/"
+            },
+            {
+              "guid": "3OH25Ul13qCV",
+              "title": "Renegade ARM Computer with USB 3 on Android Linux | Indiegogo",
+              "index": 6,
+              "dateAdded": 1512846991412000,
+              "lastModified": 1515162088834000,
+              "id": 59,
+              "typeCode": 1,
+              "annos": [
+                {
+                  "name": "bookmarkProperties/description",
+                  "value": "Soutenez des innovations en matière de technologie et de conception avant qu'elle ne soient disponibles au grand public ou achetez des centaines de produits uniques expédiés dès maintenant depuis le marketplace d'Indiegogo.",
+                  "expires": 4,
+                  "flags": 0
+                }
+              ],
+              "type": "text/x-moz-place",
+              "uri": "https://www.indiegogo.com/projects/renegade-arm-computer-with-usb-3-on-android-linux#/"
+            },
+            {
+              "guid": "-MIxpi-ULd3M",
+              "title": "LaSonotheque.org - Les derniers sons",
+              "index": 7,
+              "dateAdded": 1513604623329000,
+              "lastModified": 1515162089196000,
+              "id": 60,
+              "typeCode": 1,
+              "charset": "UTF-8",
+              "annos": [
+                {
+                  "name": "bookmarkProperties/description",
+                  "value": "Les derniers sons ajout�s sur LaSonotheque.org",
+                  "expires": 4,
+                  "flags": 0
+                }
+              ],
+              "type": "text/x-moz-place",
+              "uri": "http://lasonotheque.org/plus-derniers.html"
+            },
+            {
+              "guid": "paZ2G-GxCNLz",
+              "title": "YouTube",
+              "index": 8,
+              "dateAdded": 1513640708674000,
+              "lastModified": 1515162089393000,
+              "id": 61,
+              "typeCode": 1,
+              "charset": "UTF-8",
+              "iconuri": "https://www.youtube.com/yts/img/favicon_144-vfliLAfaB.png",
+              "annos": [
+                {
+                  "name": "bookmarkProperties/description",
+                  "value": "",
+                  "expires": 4,
+                  "flags": 0
+                }
+              ],
+              "type": "text/x-moz-place",
+              "uri": "https://www.youtube.com/watch?v=jmiKPiYlFqk"
+            },
+            {
+              "guid": "CKz1jakOTJLC",
+              "title": "Bienvenue sur Communecter",
+              "index": 9,
+              "dateAdded": 1515129248238000,
+              "lastModified": 1515162086465000,
+              "id": 62,
+              "typeCode": 1,
+              "charset": "UTF-8",
+              "iconuri": "https://www.communecter.org/assets/c30388e8/images/favicon.ico",
+              "annos": [
+                {
+                  "name": "bookmarkProperties/description",
+                  "value": "Communecter : Connecter à sa commune, inter connecter les communs, un réseau sociétal pour un citoyen connecté et acteur au centre de sa société.",
+                  "expires": 4,
+                  "flags": 0
+                }
+              ],
+              "type": "text/x-moz-place",
+              "uri": "https://www.communecter.org/#"
+            }
+          ]
+        },
+        {
+          "guid": "P1M19BGDDhba",
+          "title": "streaming",
+          "index": 5,
+          "dateAdded": 1511613167033000,
+          "lastModified": 1512851137028000,
+          "id": 63,
+          "typeCode": 2,
+          "type": "text/x-moz-place-container",
+          "children": [
+            {
+              "guid": "y9Ujq3g5AxGz",
+              "title": "Marbaz",
+              "index": 0,
+              "dateAdded": 1511613167272000,
+              "lastModified": 1515162086801000,
+              "id": 64,
+              "typeCode": 1,
+              "type": "text/x-moz-place",
+              "uri": "http://marbaz.com/kk4g5fh13cv121qs5qs4z5az4fg4fgd8cx/"
+            },
+            {
+              "guid": "qD_RGFNyO6y8",
+              "title": "Stepiz",
+              "index": 1,
+              "dateAdded": 1512468524953000,
+              "lastModified": 1515162086073000,
+              "id": 65,
+              "typeCode": 1,
+              "annos": [
+                {
+                  "name": "bookmarkProperties/description",
+                  "value": "kjl4 vb2df1gdf54 3n6gjjgk54 0xw2xw1sqd545 cx4vfd5g4re87 b1bh5gf4hhjk4uy87 vcvcd54sdf87 stepiz cxxwxd bvcb0fd2 vb5g4h5jhk4op5487 32154j5u4r87 0v2vc1xf5g4re54 2vx15ds4 stepiz wxxwqs0zaxdssd4 bnb1g2h1jk1kjm4o5 3vfh6gfhu7 v5vf45gfs87",
+                  "expires": 4,
+                  "flags": 0
+                }
+              ],
+              "type": "text/x-moz-place",
+              "uri": "http://stepiz.com/hgkl4vcbv0215487xcfds/"
+            }
+          ]
+        },
+        {
+          "guid": "2jR-LlYuGTE1",
+          "title": "admin sys et distro",
+          "index": 6,
+          "dateAdded": 1510104344946000,
+          "lastModified": 1514977682990000,
+          "id": 66,
+          "typeCode": 2,
+          "type": "text/x-moz-place-container",
+          "children": [
+            {
+              "guid": "_uRyng77sOZ7",
+              "title": "DistroWatch",
+              "index": 0,
+              "dateAdded": 1304106401410000,
+              "lastModified": 1515162087087000,
+              "id": 67,
+              "typeCode": 1,
+              "charset": "UTF-8",
+              "iconuri": "http://distrowatch.com/favicon.ico",
+              "annos": [
+                {
+                  "name": "bookmarkProperties/description",
+                  "value": "News and feature lists of Linux and BSD distributions.",
+                  "expires": 4,
+                  "flags": 0
+                }
+              ],
+              "type": "text/x-moz-place",
+              "uri": "http://distrowatch.com/"
+            },
+            {
+              "guid": "WgtyFfKS-_8K",
+              "title": "Segfault",
+              "index": 1,
+              "dateAdded": 1367943947411000,
+              "lastModified": 1515162092909000,
+              "id": 68,
+              "typeCode": 1,
+              "charset": "UTF-8",
+              "iconuri": "http://segfault.linuxmint.com/wp-content/uploads/2013/05/segfault.ico",
+              "type": "text/x-moz-place",
+              "uri": "http://segfault.linuxmint.com/"
+            },
+            {
+              "guid": "K5_5Cpm_eMJF",
+              "title": "Ubuntu and Free Software links",
+              "index": 2,
+              "dateAdded": 1511613167025000,
+              "lastModified": 1515162084734000,
+              "id": 69,
+              "typeCode": 2,
+              "annos": [
+                {
+                  "name": "bookmarkProperties/description",
+                  "value": "Information and resources about Ubuntu, Debian and Free Software in general",
+                  "expires": 4,
+                  "flags": 0
+                }
+              ],
+              "type": "text/x-moz-place-container",
+              "children": [
+                {
+                  "guid": "P-hsnbUfSwmg",
+                  "title": "Ubuntu",
+                  "index": 0,
+                  "dateAdded": 1511613168123000,
+                  "lastModified": 1515162091883000,
+                  "id": 70,
+                  "typeCode": 1,
+                  "type": "text/x-moz-place",
+                  "uri": "http://www.ubuntu.com/"
+                },
+                {
+                  "guid": "uENHa0nKm5Zg",
+                  "title": "Ubuntu Wiki (community-edited website)",
+                  "index": 1,
+                  "dateAdded": 1511613168175000,
+                  "lastModified": 1515162092152000,
+                  "id": 71,
+                  "typeCode": 1,
+                  "type": "text/x-moz-place",
+                  "uri": "http://wiki.ubuntu.com/"
+                },
+                {
+                  "guid": "KltbhD2HfudT",
+                  "title": "Make a Support Request to the Ubuntu Community",
+                  "index": 2,
+                  "dateAdded": 1511613168079000,
+                  "lastModified": 1515162091562000,
+                  "id": 72,
+                  "typeCode": 1,
+                  "type": "text/x-moz-place",
+                  "uri": "https://answers.launchpad.net/ubuntu/+addquestion"
+                },
+                {
+                  "guid": "H_7xU6LQmvlw",
+                  "title": "Debian (Ubuntu is based on Debian)",
+                  "index": 3,
+                  "dateAdded": 1511613168031000,
+                  "lastModified": 1515162091418000,
+                  "id": 73,
+                  "typeCode": 1,
+                  "type": "text/x-moz-place",
+                  "uri": "http://www.debian.org/"
+                }
+              ]
+            },
+            {
+              "guid": "tdP14y8AxZQq",
+              "title": "Faire de l'export display",
+              "index": 3,
+              "dateAdded": 1514977682990000,
+              "lastModified": 1515162086843000,
+              "id": 74,
+              "typeCode": 1,
+              "type": "text/x-moz-place",
+              "uri": "https://linux.developpez.com/formation_debian/export-display.html"
+            }
+          ]
+        },
+        {
+          "guid": "s6NRNbLJI5KH",
+          "title": "divers",
+          "index": 7,
+          "dateAdded": 1511613167083000,
+          "lastModified": 1542454790206000,
+          "id": 75,
+          "typeCode": 2,
+          "type": "text/x-moz-place-container",
+          "children": [
+            {
+              "guid": "1Wqer6FQMLA7",
+              "title": "La Tanière du Fauve — Le Bureau impérial",
+              "index": 0,
+              "dateAdded": 1511613167366000,
+              "lastModified": 1515162090969000,
+              "id": 76,
+              "typeCode": 1,
+              "type": "text/x-moz-place",
+              "uri": "http://taniere.info/ordinator/tutoriels/bur-imper/"
+            },
+            {
+              "guid": "iZvh5d8v4Kqy",
+              "title": "Forum du club des développeurs et IT Pro",
+              "index": 1,
+              "dateAdded": 1511613167923000,
+              "lastModified": 1515162092056000,
+              "id": 77,
+              "typeCode": 1,
+              "type": "text/x-moz-place",
+              "uri": "http://www.developpez.net/forums/"
+            },
+            {
+              "guid": "tj-C-afMlKnD",
+              "title": "Bencoz | Bencoz Kamagore | Écoute gratuite sur SoundCloud",
+              "index": 2,
+              "dateAdded": 1511613167142000,
+              "lastModified": 1515162086730000,
+              "id": 78,
+              "typeCode": 1,
+              "annos": [
+                {
+                  "name": "bookmarkProperties/description",
+                  "value": "Pas de thunes qui gravite autour de mon son, juste la passion, le cœur, les tripes !\nJe cherche juste à partager mon monde au travers de voyage en musiques.\n♬ ♫ ♪ ılıll|̲̅̅●̲̅̅|̲̅̅=̲̅̅|̲̅̅●̲̅̅|llılı ♪. Arles. 30 Tracks. 279 Followers. Stream Tracks and Playlists from Bencoz on your desktop or mobile device.",
+                  "expires": 4,
+                  "flags": 0
+                }
+              ],
+              "type": "text/x-moz-place",
+              "uri": "https://soundcloud.com/bencoz/"
+            },
+            {
+              "guid": "a9CAOVUo0m6i",
+              "title": "NetKulture : Tuning PC",
+              "index": 3,
+              "dateAdded": 1511613167158000,
+              "lastModified": 1515162086770000,
+              "id": 79,
+              "typeCode": 1,
+              "annos": [
+                {
+                  "name": "bookmarkProperties/description",
+                  "value": "Des liens, des images, pleins d'infos des plus surprenantes et insolites sur le Net. NetKulture un monde à part...un autre regard",
+                  "expires": 4,
+                  "flags": 0
+                }
+              ],
+              "type": "text/x-moz-place",
+              "uri": "http://netkulture.free.fr/archives/cat_tuningpc.html"
+            },
+            {
+              "guid": "8nL3I_a0nas-",
+              "title": "Koalas to the Max dot Com",
+              "index": 4,
+              "dateAdded": 1511613167656000,
+              "lastModified": 1515162090937000,
+              "id": 80,
+              "typeCode": 1,
+              "tags": "glitch",
+              "annos": [
+                {
+                  "name": "bookmarkProperties/description",
+                  "value": "Koalas to the Max, a site made with love by Vadim Ogievetsky for Annie Albagli",
+                  "expires": 4,
+                  "flags": 0
+                }
+              ],
+              "type": "text/x-moz-place",
+              "uri": "http://www.koalastothemax.com/"
+            },
+            {
+              "guid": "KCL9Xbk_z6Ra",
+              "title": "Le Mystère des Internets (05/10) (Exemple) - MindMeister",
+              "index": 5,
+              "dateAdded": 1542390212758000,
+              "lastModified": 1542390237101000,
+              "id": 120,
+              "typeCode": 1,
+              "iconuri": "https://www.mindmeister.com/favicon_mm.ico",
+              "type": "text/x-moz-place",
+              "uri": "https://www.mindmeister.com/fr/987555507/le-myst-re-des-internets-05-10"
+            },
+            {
+              "guid": "ISuHYQCtbapZ",
+              "title": "Créer son propre serveur Minecraft - Aide, Guides et Tutos Minecraft Pocket Edition | SuperSoluce",
+              "index": 6,
+              "dateAdded": 1542444487060000,
+              "lastModified": 1542444498614000,
+              "id": 121,
+              "typeCode": 1,
+              "iconuri": "http://www.supersoluce.com/sites/all/themes/supersoluce/apple-touch-icon-144x144.png",
+              "type": "text/x-moz-place",
+              "uri": "http://www.supersoluce.com/guide-tuto/minecraft-pocket-edition/creer-son-propre-serveur-minecraft"
+            },
+            {
+              "guid": "HnCeBeZBrFNr",
+              "title": "Créer son serveur Vanilla – Minecraft.fr",
+              "index": 7,
+              "dateAdded": 1542454786153000,
+              "lastModified": 1542454790206000,
+              "id": 122,
+              "typeCode": 1,
+              "type": "text/x-moz-place",
+              "uri": "https://minecraft.fr/creer-serveur-minecraft-vanilla/"
+            }
+          ]
+        },
+        {
+          "guid": "PcXzFzfm9uNb",
+          "title": "python",
+          "index": 8,
+          "dateAdded": 1511613167041000,
+          "lastModified": 1511613168392000,
+          "id": 83,
+          "typeCode": 2,
+          "type": "text/x-moz-place-container",
+          "children": [
+            {
+              "guid": "oWNE58ADUy8k",
+              "title": "Lists - Learn Python - Free Interactive Python Tutorial",
+              "index": 0,
+              "dateAdded": 1511613167900000,
+              "lastModified": 1515162092116000,
+              "id": 84,
+              "typeCode": 1,
+              "type": "text/x-moz-place",
+              "uri": "https://www.learnpython.org/en/Lists"
+            },
+            {
+              "guid": "_rTNUB8Kep1F",
+              "title": "FAQ Python, le club des développeurs et IT Pro",
+              "index": 1,
+              "dateAdded": 1511613167340000,
+              "lastModified": 1515162091971000,
+              "id": 85,
+              "typeCode": 1,
+              "type": "text/x-moz-place",
+              "uri": "https://python.developpez.com/faq/?page=String#Comment-extraire-une-sous-chaine-d-un-string"
+            }
+          ]
+        },
+        {
+          "guid": "30L2FGMTFdCw",
+          "title": "template css bootstrap",
+          "index": 9,
+          "dateAdded": 1510104403809000,
+          "lastModified": 1515161915573000,
+          "id": 86,
+          "typeCode": 2,
+          "type": "text/x-moz-place-container",
+          "children": [
+            {
+              "guid": "Ob12J5PcDLzy",
+              "title": "AdminLTE 2 | Advanced form elements",
+              "index": 0,
+              "dateAdded": 1511613168106000,
+              "lastModified": 1515162091642000,
+              "id": 87,
+              "typeCode": 1,
+              "type": "text/x-moz-place",
+              "uri": "https://almsaeedstudio.com/themes/AdminLTE/pages/forms/advanced.html"
+            },
+            {
+              "guid": "g0rULczd34HV",
+              "title": "HTML5 UP! Responsive HTML5 and CSS3 Site Templates",
+              "index": 1,
+              "dateAdded": 1512032079270000,
+              "lastModified": 1515162087530000,
+              "id": 88,
+              "typeCode": 1,
+              "iconuri": "https://html5up.net/assets/icons/apple-touch-icon-precomposed.png",
+              "annos": [
+                {
+                  "name": "bookmarkProperties/description",
+                  "value": "Responsive HTML5 and CSS3 site templates designed by @ajlkn.",
+                  "expires": 4,
+                  "flags": 0
+                }
+              ],
+              "type": "text/x-moz-place",
+              "uri": "https://html5up.net/"
+            },
+            {
+              "guid": "8iRfaq_20LTR",
+              "title": "Méthode pour réaliser une carte cliquable - Alsacreations",
+              "index": 2,
+              "dateAdded": 1512056246893000,
+              "lastModified": 1515162090089000,
+              "id": 89,
+              "typeCode": 1,
+              "charset": "UTF-8",
+              "iconuri": "https://cdn.alsacreations.net/favicon-16x16.png",
+              "annos": [
+                {
+                  "name": "bookmarkProperties/description",
+                  "value": "Forum pour webmasters, création de sites web avec HTML 5, XHTML, CSS 3 et Standards W3C",
+                  "expires": 4,
+                  "flags": 0
+                }
+              ],
+              "type": "text/x-moz-place",
+              "uri": "https://forum.alsacreations.com/topic-1-60803-1-Methode-pour-realiser-une-carte-cliquable.html"
+            },
+            {
+              "guid": "8LZkSHyo6on8",
+              "title": "MixItUp | KunkaLabs",
+              "index": 3,
+              "dateAdded": 1512547771236000,
+              "lastModified": 1515162089159000,
+              "id": 90,
+              "typeCode": 1,
+              "annos": [
+                {
+                  "name": "bookmarkProperties/description",
+                  "value": "A high-performance, dependency-free library for animated filtering, sorting and more",
+                  "expires": 4,
+                  "flags": 0
+                }
+              ],
+              "type": "text/x-moz-place",
+              "uri": "https://www.kunkalabs.com/mixitup/"
+            }
+          ]
+        },
+        {
+          "guid": "pJNS9b3hM8e1",
+          "title": "irc",
+          "index": 10,
+          "dateAdded": 1512846991231000,
+          "lastModified": 1513075188765000,
+          "id": 91,
+          "typeCode": 2,
+          "type": "text/x-moz-place-container",
+          "children": [
+            {
+              "guid": "imPZUjt8Fn3S",
+              "title": "Main page — UnrealIRCd documentation wiki",
+              "index": 0,
+              "dateAdded": 1512846991448000,
+              "lastModified": 1515162088863000,
+              "id": 92,
+              "typeCode": 1,
+              "type": "text/x-moz-place",
+              "uri": "https://www.unrealircd.org/docs/Main_page"
+            },
+            {
+              "guid": "Pu65kRidSdKO",
+              "title": "Types d'authentification — UnrealIRCd documentation wiki",
+              "index": 1,
+              "dateAdded": 1512846991392000,
+              "lastModified": 1515162085684000,
+              "id": 93,
+              "typeCode": 1,
+              "type": "text/x-moz-place",
+              "uri": "https://www.unrealircd.org/docs/Authentication_types/fr"
+            },
+            {
+              "guid": "vXrDxsoUWslz",
+              "title": "onWebChat Operator Console",
+              "index": 2,
+              "dateAdded": 1513075188765000,
+              "lastModified": 1515162086373000,
+              "id": 94,
+              "typeCode": 1,
+              "type": "text/x-moz-place",
+              "uri": "https://www.onwebchat.com/operator/#/chat/uGCUN6D2lVv0GnF2vyU2ukHg_14765"
+            }
+          ]
+        },
+        {
+          "guid": "qzIyQGQKV4Bw",
+          "title": "bash",
+          "index": 11,
+          "dateAdded": 1512725789599000,
+          "lastModified": 1512727877250000,
+          "id": 95,
+          "typeCode": 2,
+          "type": "text/x-moz-place-container",
+          "children": [
+            {
+              "guid": "VTd3SwN-kbCr",
+              "title": "Copy Shell Prompt Output To Linux / UNIX X Clipboard Directly – nixCraft",
+              "index": 0,
+              "dateAdded": 1512727877250000,
+              "lastModified": 1515162089126000,
+              "id": 96,
+              "typeCode": 1,
+              "annos": [
+                {
+                  "name": "bookmarkProperties/description",
+                  "value": "Explains how to copy and paste from UNIX / Linux shell prompt to X applications.",
+                  "expires": 4,
+                  "flags": 0
+                }
+              ],
+              "type": "text/x-moz-place",
+              "uri": "https://www.cyberciti.biz/faq/xclip-linux-insert-files-command-output-intoclipboard/"
+            }
+          ]
+        },
+        {
+          "guid": "a5ZqpXrZC224",
+          "title": "Les plus visités",
+          "index": 12,
+          "dateAdded": 1511561728388000,
+          "lastModified": 1515162088343000,
+          "id": 97,
+          "typeCode": 1,
+          "annos": [
+            {
+              "name": "Places/SmartBookmark",
+              "value": "MostVisited",
+              "expires": 4,
+              "flags": 0
+            }
+          ],
+          "type": "text/x-moz-place",
+          "uri": "place:sort=8&maxResults=10"
+        },
+        {
+          "guid": "rFlQTZDhM2Qa",
+          "title": "Linux Mint",
+          "index": 13,
+          "dateAdded": 1304106264910000,
+          "lastModified": 1515162087608000,
+          "id": 98,
+          "typeCode": 1,
+          "charset": "UTF-8",
+          "iconuri": "http://www.linuxmint.com/favicon.ico",
+          "annos": [
+            {
+              "name": "bookmarkProperties/description",
+              "value": "Linux Mint is an elegant, easy to use, up to date and comfortable GNU/Linux desktop distribution.",
+              "expires": 4,
+              "flags": 0
+            }
+          ],
+          "type": "text/x-moz-place",
+          "uri": "http://www.linuxmint.com/"
+        },
+        {
+          "guid": "omWGzkZhX2dk",
+          "title": "Blog",
+          "index": 14,
+          "dateAdded": 1304106318509000,
+          "lastModified": 1515162087991000,
+          "id": 99,
+          "typeCode": 1,
+          "charset": "UTF-8",
+          "iconuri": "http://blog.linuxmint.com/favicon.ico",
+          "type": "text/x-moz-place",
+          "uri": "http://blog.linuxmint.com/"
+        },
+        {
+          "guid": "2RrOaP_ztJN9",
+          "title": "Forums",
+          "index": 15,
+          "dateAdded": 1304106305318000,
+          "lastModified": 1515162087930000,
+          "id": 100,
+          "typeCode": 1,
+          "charset": "UTF-8",
+          "iconuri": "http://forums.linuxmint.com/images/favicon.ico",
+          "type": "text/x-moz-place",
+          "uri": "http://forums.linuxmint.com/"
+        },
+        {
+          "guid": "XuW6KuPQMBB7",
+          "title": "Community",
+          "index": 16,
+          "dateAdded": 1304106293716000,
+          "lastModified": 1515162087962000,
+          "id": 101,
+          "typeCode": 1,
+          "charset": "UTF-8",
+          "iconuri": "http://community.linuxmint.com/images/favicon.ico",
+          "type": "text/x-moz-place",
+          "uri": "http://community.linuxmint.com/"
+        },
+        {
+          "guid": "sdLPccKJJTEk",
+          "title": "",
+          "index": 17,
+          "dateAdded": 1304106352478000,
+          "lastModified": 1304106352478000,
+          "id": 102,
+          "typeCode": 3,
+          "type": "text/x-moz-place-separator"
+        },
+        {
+          "guid": "UAJ1jAa1Imc_",
+          "title": "News",
+          "index": 18,
+          "dateAdded": 1304106517752000,
+          "lastModified": 1515161923494000,
+          "id": 115,
+          "typeCode": 2,
+          "annos": [
+            {
+              "name": "livemark/feedURI",
+              "value": "http://www.linuxmint.com/planet/rss.xml",
+              "expires": 4,
+              "flags": 0
+            },
+            {
+              "name": "livemark/siteURI",
+              "value": "http://blog.linuxmint.com/",
+              "expires": 4,
+              "flags": 0
+            },
+            {
+              "name": "placesInternal/READ_ONLY",
+              "value": "1",
+              "expires": 4,
+              "flags": 0
+            }
+          ],
+          "type": "text/x-moz-place-container"
+        },
+        {
+          "guid": "u8Jbeo9j_nzH",
+          "title": "Ubuntu MATE for the Raspberry Pi 2 and Raspberry Pi 3 | Ubuntu MATE",
+          "index": 19,
+          "dateAdded": 1511613167311000,
+          "lastModified": 1515162087129000,
+          "id": 103,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://ubuntu-mate.org/raspberry-pi/"
+        },
+        {
+          "guid": "7TNsKWLqmbrx",
+          "title": "avoir la paix.pdf - Google Drive",
+          "index": 20,
+          "dateAdded": 1511613167410000,
+          "lastModified": 1515162087196000,
+          "id": 104,
+          "typeCode": 1,
+          "iconuri": "https://ssl.gstatic.com/docs/doclist/images/icon_14_pdf_favicon.ico",
+          "type": "text/x-moz-place",
+          "uri": "https://drive.google.com/file/d/0B1FL4JGWn42YNjQ3Rnl2TnV2TVk/view"
+        }
+      ]
+    },
+    {
+      "guid": "unfiled_____",
+      "title": "Autres marque-pages",
+      "index": 3,
+      "dateAdded": 1515161890929000,
+      "lastModified": 1542454790206000,
+      "id": 5,
+      "typeCode": 2,
+      "type": "text/x-moz-place-container",
+      "root": "unfiledBookmarksFolder",
+      "children": [
+        {
+          "guid": "D-eKRmo_dO3_",
+          "title": "Forums - Cooler Master Community",
+          "index": 0,
+          "dateAdded": 1511613167845000,
+          "lastModified": 1515162092871000,
+          "id": 105,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "http://community.coolermaster.com/?f=49&t=14742&p=109879#p109879"
+        },
+        {
+          "guid": "WPvB6DjhOPt1",
+          "title": "Accueil - teletravail.fr",
+          "index": 1,
+          "dateAdded": 1511613167832000,
+          "lastModified": 1515162092839000,
+          "id": 106,
+          "typeCode": 1,
+          "annos": [
+            {
+              "name": "bookmarkProperties/description",
+              "value": "Le site des télétravailleurs : Offres d'emploi en télétravail, offres de mission freelance et informations sur le télétravail.",
+              "expires": 4,
+              "flags": 0
+            }
+          ],
+          "type": "text/x-moz-place",
+          "uri": "https://teletravail.fr/"
+        },
+        {
+          "guid": "TaQ7gxplgHcg",
+          "title": "Get to know Radio Page 2.0 for Airtime Pro! – Sourcefabric Help Center",
+          "index": 2,
+          "dateAdded": 1511613167816000,
+          "lastModified": 1515162092697000,
+          "id": 107,
+          "typeCode": 1,
+          "annos": [
+            {
+              "name": "bookmarkProperties/description",
+              "value": "Introducing the brand new, custom Radio Page for Airtime Pro!   As of December 2016, Airtime Pro has a new look and a ton of new features...",
+              "expires": 4,
+              "flags": 0
+            }
+          ],
+          "type": "text/x-moz-place",
+          "uri": "https://sourcefabricberlin.zendesk.com/hc/en-us/articles/217498126-Get-to-know-Radio-Page-2-0-for-Airtime-Pro-"
+        },
+        {
+          "guid": "t6SmWZPay3CD",
+          "title": "Créer une webradio avec Airtime — Centre de Ressources Numériques - Labomedia",
+          "index": 3,
+          "dateAdded": 1511613167383000,
+          "lastModified": 1515162090414000,
+          "id": 108,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://wiki.labomedia.org/index.php/Cr%C3%A9er_une_webradio_avec_Airtime"
+        },
+        {
+          "guid": "Fu_Zdq4X-XRb",
+          "title": "IRCOp guide — UnrealIRCd documentation wiki",
+          "index": 4,
+          "dateAdded": 1512846991433000,
+          "lastModified": 1515162087163000,
+          "id": 109,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://www.unrealircd.org/docs/IRCOp_guide"
+        },
+        {
+          "guid": "psTu5V1R87U9",
+          "title": "onWebChat Operator Console",
+          "index": 5,
+          "dateAdded": 1513075188742000,
+          "lastModified": 1515162086003000,
+          "id": 110,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://www.onwebchat.com/operator/#/"
+        }
+      ]
+    },
+    {
+      "guid": "mobile______",
+      "title": "Marque-pages de l’appareil mobile",
+      "index": 4,
+      "dateAdded": 1515161890930000,
+      "lastModified": 1515161915696000,
+      "id": 6,
+      "typeCode": 2,
+      "annos": [
+        {
+          "name": "mobile/bookmarksRoot",
+          "value": "1",
+          "expires": 4,
+          "flags": 0
+        }
+      ],
+      "type": "text/x-moz-place-container",
+      "root": "mobileFolder",
+      "children": [
+        {
+          "guid": "1qCVx0fi58AC",
+          "title": "Metarvrse",
+          "index": 0,
+          "dateAdded": 1514500169567000,
+          "lastModified": 1515162088800000,
+          "id": 111,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "http://metarvrse.com/"
+        },
+        {
+          "guid": "EfMYZ1kLVe99",
+          "title": "Firefox : à propos de votre navigateur",
+          "index": 1,
+          "dateAdded": 1511613168286000,
+          "lastModified": 1515162091380000,
+          "id": 112,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "about:firefox"
+        },
+        {
+          "guid": "4UX-3kWMHWnX",
+          "title": "Firefox : personnalisation avec des modules",
+          "index": 2,
+          "dateAdded": 1511613168269000,
+          "lastModified": 1515162091061000,
+          "id": 113,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://addons.mozilla.org/android/"
+        },
+        {
+          "guid": "bES8JV2ONjLl",
+          "title": "Firefox : assistance",
+          "index": 3,
+          "dateAdded": 1511613168317000,
+          "lastModified": 1515162092022000,
+          "id": 114,
+          "typeCode": 1,
+          "type": "text/x-moz-place",
+          "uri": "https://support.mozilla.org/products/mobile"
+        }
+      ]
+    }
+  ]
+}
