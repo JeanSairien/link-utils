@@ -11,14 +11,17 @@ http://www.supportduweb.com/generateur-image-ascii-art-code-convertir-image-en-c
 
 http://www.patorjk.com/software/taag/#p=display&h=3&v=3&c=echo&f=Doom&t=Bienvenue%20dans%20mon%20Cv%0A%0A%0A%0A
 
+----
+
 ## BASH
 
 http://ineumann.developpez.com/tutoriels/linux/exercices-shell/
 
 http://lea-linux.org/documentations/Shell
 
+----
 
-##Les chaines Youtube
+## Les chaines Youtube
 
 * Startup Food (SEO, Entrepeunariat, Startup, Webmarketing) : https://www.youtube.com/user/Startupfood
 
@@ -36,20 +39,22 @@ http://lea-linux.org/documentations/Shell
 
 * Grafikart ( Front) : https://www.youtube.com/user/grafikarttv
 
+----
+
 ## framapad (not updating not verified)
 
 https://annuel.framapad.org/p/Formation_Rennes
 
-
-
+----
 
 **la ferme du web**
 http://www.lafermeduweb.net/
 
 **Le site du zero**
 
+----
 
-##HTML/CSS
+## HTML/CSS
 
 http://www.cssdebutant.com/tutoriel-structure-une-page-css.html
 
@@ -68,7 +73,9 @@ http://www.supportduweb.com/
 
 **CSS3Create**
 
-##GRAPHISME
+----
+
+## GRAPHISME
 
 http://paletton.com/#uid=1590u0kllllaFw0g0qFqFg0w0aF
 
@@ -110,8 +117,9 @@ pour être un bon crack en JS suivre le cursus sur :https://www.freecodecamp.com
 
 `webpack`:webpack.github.io
 
+----
 
-##HTML Color Codes 
+## HTML Color Codes 
 http://htmlcolorcodes.com/fr/noms-de-couleur/
 
 http://tulipemedia.com/associer-couleurs-site-web-print-affiche/
@@ -122,8 +130,9 @@ http://www.lesgraphisteries.com/2011/08/29/dribbble-le-site-quon-adore-detester/
 
 http://stylescss.free.fr/couleurs.php
 
+----
 
-##SQL
+## SQL
 
 http://sql.sh/cours/jointures
 
@@ -135,8 +144,9 @@ http://www.w3schools.com/sql/trysql.asp?filename=trysql_select_all
 
 https://doc.ubuntu-fr.org/mysql
 
+----
 
-##RUBY
+## RUBY
 
 https://www.codecademy.com/articles/glossary-ruby
 
@@ -146,8 +156,9 @@ https://openclassrooms.com/courses/lancez-vous-dans-la-programmation-avec-ruby
 
 https://fr.wikiversity.org/wiki/Ruby/Boucles
 
+----
 
-##veille
+## veille
 
 https://feedly.com/
 
@@ -159,8 +170,9 @@ http://usepanda.com/
 
 https://hootsuite.com/fr
 
+----
 
-##Java Script
+## Java Script
 
 https://openclassrooms.com/courses/dynamisez-vos-sites-web-avec-javascript
 
@@ -168,15 +180,15 @@ http://johnpolacek.github.io/superscrollorama/
 
 https://sutterlity.gitbooks.io/apprendre-jquery/content/les_variables.html
 
+----
 
-
-##GIT
+## GIT
 
 https://www.git-scm.com/docs/git-stash
 
+----
 
-
-##Cahier des charges
+## Cahier des charges
 
 http://www.cahier-des-charges.net/site-web/
 
@@ -184,19 +196,21 @@ http://phortail.org/webntic/methodologie-pour-cahier-des-charges-fonctionnel.htm
 
 http://www.mmcreation.com/_doc/mmcreation-cahier-des-charges.pdf
 
+----
 
-##PHP
+## PHP
 
 https://memo-linux.com/debian-8-installer-php7-simplement-avec-les-depots-dotdeb/
 http://www.codingcage.com/2015/04/php-pdo-crud-tutorial-using-oop-with.html
 
 
-##cakephp
+## cakephp
 
 http://tecadmin.net/setup-cakephp-3-on-linux/#
 
+----
 
-##SECU
+## SECU
 
 https://subgraph.com/vega/index.fr.html
 https://github.com/Hack-with-Github/Awesome-Hacking
@@ -205,10 +219,9 @@ https://github.com/pFarb/awesome-crypto-papers
 https://greysec.net/showthread.php?tid=1855
 https://www.sans.org/course/python-for-pen-testers
 
- 
+---- 
 
-
-##DIVERS
+## DIVERS
 **Developpez.com**
 
 **Mattrunks**
@@ -221,8 +234,9 @@ https://www.sans.org/course/python-for-pen-testers
 
 **Wonkastudio**
 
-##ACTUE
+----
 
+## ACTUE
 
 https://www.grafikart.fr/
 
