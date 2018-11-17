@@ -1,6 +1,6 @@
 # Welcome/Bienvenue
 
-*This page is for réfenced divers links*
+*This page réferenced utils links*
 
 *Cette page est un référenciel de liens divers*
 
