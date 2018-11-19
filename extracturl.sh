@@ -16,8 +16,34 @@
 
 
 
-sed -n 's/^\ *"title": \"\(.*\)",/\1/p' indent.json >> readdable3.txt 
-echo \n | grep -Po '"'"uri"'"\s*:\s*"\K([^"]*)' indent.json >> readdable3.txt
+
+# title= 
+# echo $title
+
+echo "initialise" 
+
+
+sleep 1
+
+function titles{
+	sed -n 's/^\ *"title": \"\(.*\)",/\1/p' $1
+	return title
+}
+
+titles indent.json  
+
+for i in $title
+do
+	
+	 echo $i
+	# printf "%s\n" "${array[@]}"
+	printf "%s\n" "post"
+
+done
+# echo \n | grep -Po '"'"uri"'"\s*:\s*"\K([^"]*)' indent.json >> readdable3.txt
+
+# sed -n 's/^\ *"title": \"\(.*\)",/\1/p' indent.json >> readdable3.txt 
+# echo \n | grep -Po '"'"uri"'"\s*:\s*"\K([^"]*)' indent.json >> readdable3.txt
 
 # sed -n '/"title"/,/^\],$/s/^*"uri": "\(.*\)",/\1/p' indent.json >> readdable3.txt
 
