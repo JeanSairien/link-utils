@@ -47,7 +47,6 @@ Package Repositories - Proxmox VE
 X-Files
 création d’une machine virtuelle avec Proxmox 3 | memo-linux.com
 perso
-Mes contrats | Intranet Talorig
 Cours d'Algorithmique - Christophe Darmangeat
 Avant-propos, comment fonctionne ce tutoriel - Votre site PHP (presque) complet : architecture MVC et bonnes pratiques - OpenClassrooms
 Mindae, l'Architecture Nouvelle de vos bureaux
@@ -151,7 +150,6 @@ https://forum.proxmox.com/threads/no-access-to-the-panel-after-the-update-promox
 https://pve.proxmox.com/wiki/Package_Repositories
 https://doc.lagout.org/network/
 https://memo-linux.com/creation-dune-machine-virtuelle-avec-proxmox-3/
-http://monespace.talorig.fr/tableau-de-bord/mes-contrats
 http://pise.info/algo/codage.htm
 https://openclassrooms.com/courses/votre-site-php-presque-complet-architecture-mvc-et-bonnes-pratiques/avant-propos-comment-fonctionne-ce-tutoriel
 http://mindae-pourvosbureaux.strikingly.com/

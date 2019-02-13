@@ -697,17 +697,6 @@
           "type": "text/x-moz-place-container",
           "children": [
             {
-              "guid": "Vz5gVkfOnaCv",
-              "title": "Mes contrats | Intranet Talorig",
-              "index": 0,
-              "dateAdded": 1511613167696000,
-              "lastModified": 1515162086404000,
-              "id": 53,
-              "typeCode": 1,
-              "type": "text/x-moz-place",
-              "uri": "http://monespace.talorig.fr/tableau-de-bord/mes-contrats"
-            },
-            {
               "guid": "jWyBV7fekYye",
               "title": "Cours d'Algorithmique - Christophe Darmangeat",
               "index": 1,

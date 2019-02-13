@@ -35,7 +35,6 @@ https://pve.proxmox.com/wiki/Package_Repositories
 https://doc.lagout.org/network/
 https://cdn-01.memo-linux.com/favicon.jpg
 https://memo-linux.com/creation-dune-machine-virtuelle-avec-proxmox-3/
-http://monespace.talorig.fr/tableau-de-bord/mes-contrats
 http://pise.info/algo/codage.htm
 https://openclassrooms.com/courses/votre-site-php-presque-complet-architecture-mvc-et-bonnes-pratiques/avant-propos-comment-fonctionne-ce-tutoriel
 http://mindae-pourvosbureaux.strikingly.com/

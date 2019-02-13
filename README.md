@@ -2,7 +2,12 @@
 
 *This page réferenced utils links*
 
-*Cette page est un référenciel de liens divers*
+*Cette page est un référenciel de liens utils*
+
+### Disclamer
+*with this groups of links, an library for extract links of any documents is comming but for the moment she's alway in  developpement* 
+
+* Avec ce groupe de liens, une bibliothèque pour extraire les liens de tous les documents est à venir mais pour le moment, elle est toujours en développement*
 
 
 ## ASCIIART
